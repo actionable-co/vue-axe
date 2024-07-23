@@ -69,7 +69,6 @@
     "@rollup/plugin-terser": "^0.4.4",
     "@vue/eslint-config-standard": "^8.0.1",
     "axe-core": "^4.9.1",
-    "babel-eslint": "^10.1.0",
     "chokidar": "^3.6.0",
     "cypress": "^13.13.1",
     "deepmerge": "^4.3.1",
