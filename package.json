@@ -85,6 +85,7 @@
     "rollup-plugin-vue": "^6.0.0",
     "standard-version": "^9.5.0",
     "vue": "^3.2.26",
+    "vue-cli-service": "^5.0.10",
     "vue-template-compiler": "^2.7.16",
     "vuepress": "^0.14.11",
     "vuepress-theme-default-vue-a11y": "^0.1.15",
