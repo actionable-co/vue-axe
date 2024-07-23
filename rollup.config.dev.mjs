@@ -2,7 +2,7 @@ import buble from '@rollup/plugin-buble'
 import commonJs from '@rollup/plugin-commonjs'
 import resolve from '@rollup/plugin-node-resolve'
 import chokidar from 'chokidar'
-import { eslint } from 'rollup-plugin-eslint'
+import eslint from '@rollup/plugin-eslint'
 import vue from 'rollup-plugin-vue'
 
 export default {

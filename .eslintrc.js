@@ -13,7 +13,7 @@ module.exports = {
     'cypress'
   ],
   parserOptions: {
-    parser: 'babel-eslint'
+    parser: 'eslint'
   },
   rules: {
     'no-console': 'off'
